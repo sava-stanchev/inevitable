@@ -1,7 +1,7 @@
 /**
  * https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
  *
- * Time O(n^2) | Space(n)
+ * Time O(n^2) | Space O(n)
  *
  * first element in pre-order is root,
  * elements left of root in in-order are left subtree,
