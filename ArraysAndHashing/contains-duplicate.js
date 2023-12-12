@@ -3,7 +3,7 @@
  *
  * Time O(n) | Space O(n)
  *
- * hashset to get unique values in array,
+ * hash set to get unique values in array,
  * to check for duplicates easily
  *
  * @param {number[]} nums

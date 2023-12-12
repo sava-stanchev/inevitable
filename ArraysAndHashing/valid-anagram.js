@@ -3,7 +3,7 @@
  *
  * Time O(n) | Space O(1)
  *
- * hashmap to count each char in str1,
+ * hash map to count each char in str1,
  * decrement for str2
  *
  * @param {string} s
