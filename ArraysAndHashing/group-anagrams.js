@@ -11,7 +11,6 @@
  * @param {string[]} strs
  * @return {string[][]}
  */
-
 var groupAnagrams = function (strs) {
   let map = new Map();
 
