@@ -3,9 +3,9 @@
  *
  * Time O(N) | Space O(N)
  *
- * monotonic stack of indexes,
- * pop stack if temperature is greater than
- * the temperature indexed at top of stack
+ * stack of temperature indexes,
+ * pop stack if curr temperature is greater
+ * than the one indexed at top of stack
  * push to result index difference (num of days)
  *
  * @param {number[]} temperatures
